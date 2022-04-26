@@ -1,0 +1,25 @@
+{
+  "name": "devopslearning",
+  "version": "1.0.0",
+  "description": "Implementing DevOps Learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msspl-abhijitdas/DevOpsImplementation.git"
+  },
+  "keywords": [
+    "DevOps"
+  ],
+  "author": "Abhijit Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msspl-abhijitdas/DevOpsImplementation/issues"
+  },
+  "homepage": "https://github.com/msspl-abhijitdas/DevOpsImplementation#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
